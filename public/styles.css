@@ -1,0 +1,33 @@
+body {
+    background: linear-gradient(to top right, #277BC0, #FFF4CF);
+}
+
+h1 {
+font-family:Montserrat-Black;
+text-align: right;
+color:#FFF4CF;
+}
+
+h2 {
+
+}
+
+.table {
+    border-style: double;
+    border: #277BC0;
+}
+
+.navbar-brand {
+    font-family: Sacramento;
+    font-weight: 900;
+}
+
+.totals {
+    
+}
+
+.custom-scrollbar {
+    position: relative;
+    height: 900px;
+    overflow: auto;
+}
